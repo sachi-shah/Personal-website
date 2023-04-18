@@ -1,2 +1,2 @@
 # Personal-website
-Personal profile website with django
+Sample Personal profile website with django
